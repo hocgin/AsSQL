@@ -2,6 +2,7 @@
 A Simple SQL tool
 
 ## Download
+[AsSQL](http://7xs6lq.com1.z0.glb.clouddn.com/github/jarJava.jar)
 
 ## Usage
 ```java
