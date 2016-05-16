@@ -1,5 +1,5 @@
-## Assql
-A Simple SQL tool
+# AsSql
+> A simple SQL tool
 
 ## Download
 [AsSQL.jar](http://7xs6lq.com1.z0.glb.clouddn.com/github/jarAsSQL.jar)
